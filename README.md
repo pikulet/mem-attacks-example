@@ -8,7 +8,9 @@ Examples of Binary Exploitations
 Not intended to be a teaching guide. 
 
 Pre-requisites:
+
 The basic techniques of binary exploitation, namely overwriting variables/ return addresses.
+
 This repository was tested on Ubuntu 16.04
 
 General Tips:
