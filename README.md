@@ -15,7 +15,7 @@ This repository was tested on Ubuntu 16.04
 
 General Tips:
 - Install `peda`, which is a much more bazinga-ed version of gdb
-- For format string attack, read documentation on `printf` calling conventions and how arguments are passed to functions for your machine.
+- For format string attack, read documentation on `printf` calling conventions and how arguments are passed to functions for your machine (registers or stack).
 
 
 
